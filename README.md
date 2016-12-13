@@ -28,4 +28,6 @@ Nesta pasta encontra-se o Trabalho 2 da disciplina. Código esta contido no arqu
 - cv2
 - pandas
 
-Além disso, por utilizar funções de SO para carregar a bases de dados, este código funcina apenas no linux. A base de dados original pode ser carregada a partir da página do desafio no Kaggle [a link](https://github.com/user/repo/blob/branch/other_file.md)
+Além disso, por utilizar funções de SO para carregar a bases de dados, este código funcina apenas no linux. A base de dados original pode ser carregada a partir da página do desafio no [Kaggle](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/data). As modificações realizadas nas bases e o teste de validaço podem ser obtidas [aqui](https://www.dropbox.com/s/hy9k55z41xb97ey/baseteste2.zip?dl=0).
+
+Para utilizar o código basta alterar o Path das bases nos locais indicados no código. Os modelos também podem ser alterados via parâmetros, também indicados como comentários no código.
