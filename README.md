@@ -21,4 +21,11 @@ Além disso, esse script chama o executável com diferentes tamanhos de matrizes
 O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab1. 
 
 # Trab 2
-Em breve...
+Nesta pasta encontra-se o Trabalho 2 da disciplina. Código esta contido no arquivo Trab2.py. O código possui as seguintes depêndencias de bibliotecas do python:
+- TensorFlow
+- Keras
+- Numpy
+- cv2
+- pandas
+
+Além disso, por utilizar funções de SO para carregar a bases de dados, este código funcina apenas no linux. A base de dados original pode ser carregada a partir da página do desafio no Kaggle [a link](https://github.com/user/repo/blob/branch/other_file.md)
