@@ -18,7 +18,7 @@ Para determinar o número de threads utilizadas pela OpenMP, o script roda_tudo.
 export OMP_NUM_THREADS=4
 ```
 Além disso, esse script chama o executável com diferentes tamanhos de matrizes.
-O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab1. 
+O relatório técnico deste trabalho pode ser acessado [Neste link](https://arxiv.org/abs/1905.03641)
 
 # Trab 2
 Nesta pasta encontra-se o Trabalho 2 da disciplina. Código esta contido no arquivo Trab2.py. O código possui as seguintes depêndencias de bibliotecas do python:
@@ -32,4 +32,4 @@ Além disso, por utilizar funções de SO para carregar a bases de dados, este c
 
 Para utilizar o código basta alterar o Path das bases nos locais indicados no código. Os modelos também podem ser alterados via parâmetros, também indicados como comentários no código.
 
-O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab2. 
+O relatório técnico deste trabalho pode ser acessado [Neste link](https://arxiv.org/abs/1905.03642)
