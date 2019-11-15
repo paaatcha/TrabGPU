@@ -18,7 +18,7 @@ Para determinar o número de threads utilizadas pela OpenMP, o script roda_tudo.
 export OMP_NUM_THREADS=4
 ```
 Além disso, esse script chama o executável com diferentes tamanhos de matrizes.
-O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab1. 
+O relatório técnico deste trabalho pode ser acessado [Neste link](https://arxiv.org/abs/1905.03641)
 
 **O relatório deste trabalho está disponível no ARXIV:**
 COLOCAR
@@ -35,5 +35,4 @@ Além disso, por utilizar funções de SO para carregar a bases de dados, este c
 
 Para utilizar o código basta alterar o Path das bases nos locais indicados no código. Os modelos também podem ser alterados via parâmetros, também indicados como comentários no código.
 
-**O relatório deste trabalho está disponível no ARXIV:**
-COLOCAR
+O relatório técnico deste trabalho pode ser acessado [Neste link](https://arxiv.org/abs/1905.03642)
