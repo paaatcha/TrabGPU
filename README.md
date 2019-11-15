@@ -20,6 +20,9 @@ export OMP_NUM_THREADS=4
 Além disso, esse script chama o executável com diferentes tamanhos de matrizes.
 O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab1. 
 
+**O relatório deste trabalho está disponível no ARXIV:**
+COLOCAR
+
 # Trab 2
 Nesta pasta encontra-se o Trabalho 2 da disciplina. Código esta contido no arquivo Trab2.py. O código possui as seguintes depêndencias de bibliotecas do python:
 - TensorFlow
@@ -32,4 +35,5 @@ Além disso, por utilizar funções de SO para carregar a bases de dados, este c
 
 Para utilizar o código basta alterar o Path das bases nos locais indicados no código. Os modelos também podem ser alterados via parâmetros, também indicados como comentários no código.
 
-O relatório do trabalho encontra-se em formato PDF dentro da pasta Trab2. 
+**O relatório deste trabalho está disponível no ARXIV:**
+COLOCAR
